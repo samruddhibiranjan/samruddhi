@@ -10,9 +10,9 @@
 
     <header>
         <div class="profile-image">
-            <img src="your-image.jpg" alt="Samruddhi Biranjan">
+            <img src="your-image.jpg">
         </div>
-        <h1>Your Name</h1>
+        <h1>Samruddhi Biranjan</h1>
     </header>
 
     <section class="contact">
