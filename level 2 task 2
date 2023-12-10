@@ -1,0 +1,208 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Mr.Ratan Tata</title>
+        <link rel="stylesheet" href="L2T2.css">
+    </head>
+</html>
+<header id="header">
+    <div class="container">
+        <div class="row clearfix">
+            <div class="title">
+                A Tribute Page for
+                <span class="tribute">Mr.Ratan Tata</span>
+            </div>
+        </div>
+</header>
+<div>
+    <div class="section-title">INTRO</div>
+</div>
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QFuRXhpZgAASUkqAAgAAAACAA4BAgAyAQAAJgAAAJiCAgAOAAAAWAEAAAAAAABSYXRhbiBUYXRhLCBjaGFpcm1hbiBvZiBUYXRhIFNvbnMgTHRkLiwgYXR0ZW5kcyB0aGUgQ29uZmVkZXJhdGlvbiBvZiBJbmRpYW4gSW5kdXN0cnkgKENJSSkncyAiU2luZ2Fwb3JlIFN5bXBvc2l1bSIgaW4gTmV3IERlbGhpLCBJbmRpYSwgb24gV2VkbmVzZGF5LCBEZWMuIDE2LCAyMDA5LiBUaGUgZGF5IGxvbmcgU2luZ2Fwb3JlIFN5bXBvc2l1bSBmb2N1c2VzIG9uIGdvdmVybm1lbnQsIGVkdWNhdGlvbiBhbmQgaW5mcmFzdHJ1Y3R1cmUuIFBob3RvZ3JhcGhlcjogUGFua2FqIE5hbmdpYS9CbG9vbWJlcmcgdmlhIEdldHR5IEltYWdlcyAyMDA5IEJsb29tYmVyZ//tAZRQaG90b3Nob3AgMy4wADhCSU0EBAAAAAABdxwCUAAJQmxvb21iZXJnHAJ4ATJSYXRhbiBUYXRhLCBjaGFpcm1hbiBvZiBUYXRhIFNvbnMgTHRkLiwgYXR0ZW5kcyB0aGUgQ29uZmVkZXJhdGlvbiBvZiBJbmRpYW4gSW5kdXN0cnkgKENJSSkncyAiU2luZ2Fwb3JlIFN5bXBvc2l1bSIgaW4gTmV3IERlbGhpLCBJbmRpYSwgb24gV2VkbmVzZGF5LCBEZWMuIDE2LCAyMDA5LiBUaGUgZGF5IGxvbmcgU2luZ2Fwb3JlIFN5bXBvc2l1bSBmb2N1c2VzIG9uIGdvdmVybm1lbnQsIGVkdWNhdGlvbiBhbmQgaW5mcmFzdHJ1Y3R1cmUuIFBob3RvZ3JhcGhlcjogUGFua2FqIE5hbmdpYS9CbG9vbWJlcmcgdmlhIEdldHR5IEltYWdlcyAcAnQADjIwMDkgQmxvb21iZXJnHAJuABpCbG9vbWJlcmcgdmlhIEdldHR5IEltYWdlcwD/4QZeaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj4KCTxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CgkJPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczpJcHRjNHhtcENvcmU9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBDb3JlLzEuMC94bWxucy8iICAgeG1sbnM6R2V0dHlJbWFnZXNHSUZUPSJodHRwOi8veG1wLmdldHR5aW1hZ2VzLmNvbS9naWZ0LzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGx1cz0iaHR0cDovL25zLnVzZXBsdXMub3JnL2xkZi94bXAvMS4wLyIgIHhtbG5zOmlwdGNFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnhtcFJpZ2h0cz0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3JpZ2h0cy8iIGRjOlJpZ2h0cz0iMjAwOSBCbG9vbWJlcmciIHBob3Rvc2hvcDpDcmVkaXQ9IkJsb29tYmVyZyB2aWEgR2V0dHkgSW1hZ2VzIiBHZXR0eUltYWdlc0dJRlQ6QXNzZXRJRD0iOTQ1MDY5MzgiIHhtcFJpZ2h0czpXZWJTdGF0ZW1lbnQ9Imh0dHBzOi8vd3d3LmdldHR5aW1hZ2VzLmNvbS9ldWxhP3V0bV9tZWRpdW09b3JnYW5pYyZhbXA7dXRtX3NvdXJjZT1nb29nbGUmYW1wO3V0bV9jYW1wYWlnbj1pcHRjdXJsIiA+CjxkYzpjcmVhdG9yPjxyZGY6U2VxPjxyZGY6bGk+Qmxvb21iZXJnPC9yZGY6bGk+PC9yZGY6U2VxPjwvZGM6Y3JlYXRvcj48ZGM6ZGVzY3JpcHRpb24+PHJkZjpBbHQ+PHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ij5SYXRhbiBUYXRhLCBjaGFpcm1hbiBvZiBUYXRhIFNvbnMgTHRk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" class="image" alt="ratan-tata">
+<div id="main">
+    <div id="intro">
+        <div class="text">
+            <b>India</b>
+            is known for business and Indian businessmen are well known around the world. The world
+            agrees
+            with the thought that business runs in the veins of Indians. Ambani, Adani,Mahindra,Tata,
+            Kotak,Birlas
+            are figureheads of the business world.<br>
+            <b>Here talking about a businessman called Mr.Ratan Tata.</b>
+            When we think of billionaire men, we conjure images of men stepping out of five-star hotels in suits
+            and
+            getting into fancy chauffeur-driven cars. From their clothes and accessories to their cars,
+            everything
+            belongs to high-end brands. Such men hold immense power and this is often conveyed in their
+            interactions
+            with people.
+            <b>However, Ratan Tata is different.</b>
+            <strong>Ratan Naval Tata</strong>
+            (born 28 December 1937) is an Indian businessman and former
+            chairman of Tata Sons.
+            He is the son of Naval Tata, who was adopted by Ratanji Tata, son of Jamsetji Tata, the founder of
+            the Tata Group.
+            He graduated from the Cornell University College of Architecture with a bachelor's degree in
+            architecture.He joined Tata in 1961, where he worked on the shop floor of Tata Steel. He later
+            succeeded J. R. D. Tata's as chairman of Tata Sons upon the latter's retirement in 1991. Under his
+            tenure the Tata Group acquired Tetley, Jaguar Land Rover, and Corus, in an attempt to turn Tata from
+            a largely India-centric group into a global business. Tata is also one of the largest
+            philanthropists in the world, having donated around 60–65% of his income to charity.
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </div>
+    </div>
+</div>
+</div></div>
+<div id="career">
+    <div class="row">
+        <div class="section-title">CAREER</div>
+        <div>
+            <p>
+                In the 1970s, Tata was given a managerial position in the Tata group. He achieved initial success by
+                turning the subsidiary National Radio and Electronics (NELCO) around, only to see it collapse during
+                an economic slowdown.In 1991, J. R. D. Tata stepped down as chairman of Tata Sons, naming
+                him his successor. Initially, Tata faced stiff resistance from the heads of various subsidiaries,
+                who had a large amount of operational freedom under the senior Tata's tenure. In response, Tata
+                implemented a number of policies designed to consolidate power, including the implementation of a
+                retirement age, having subsidiaries report directly to the group office, and requiring subsidiaries
+                to contribute their profit to building the Tata group brand. Tata prioritised innovation and
+                delegated many responsibilities to younger talent.Under his leadership, overlapping operations
+                between subsidiaries were streamlined into company-wide operations, with the group exiting unrelated
+                businesses to take on globalisation.<br>During the 21 years Tata led the Tata Group, revenues grew over 40 times, and profit over 50
+                times.mprised commodity sales, but at the end of his tenure, the majority of sales came from
+                brands.He had Tata Tea acquire Tetley, Tata Motors acquire Jaguar Land Rover, and Tata
+                Steel acquire Corus. These acquisitions repositioned Tata from a largely India-centric group into a
+                global business, with over 65% of revenues coming from operations and sales internationally.
+
+            
+            </p>
+        </div>
+    </div>
+</div>
+<div id="personal-life">
+    <div class="row">
+        <div class="section-title">PERSONAL LIFE</div>
+        <div>
+            <p>Tata has never married and has no children. In 2011, Ratan Tata stated, "I came close to getting
+                married four times and each time I backed off in fear or for one reason or another".
+            </p>
+        </div>
+    </div>
+    <div id="facts">
+        <div class="row">
+            <div class="section-title">REASONS WHY HE IS AN INSPIRATION </div>
+            <div>
+                <p>
+                    <b>There are some reasons why he is an inspiration to all:</b>
+                </p>
+                <div>
+                    <p>
+                        <b>1. He is a risk taker</b>
+                        <br>
+                        Ratan Tata tapped into the pulse of Indian masses to understand their needs and daily
+                        lives.
+                        He realized that many Indian middle class families dream of buying their own car but
+                        often
+                        don’t have the means to do so. Hence, he came up with Tata Nano, the ‘one lakh car’, in
+                        2009. Within one week of its launch, the company’s website crashed due to high interest
+                        and publicity.
+                        Though the car is no longer under production, he fulfilled the dreams of many families
+                        of
+                        having their own car without burning their pockets.<br>
+                        <b>2. He is an empath</b>
+                        <br>
+                        In the aftermath of the 26/11 attacks, Ratan Tata set up the <b>‘Taj public Service
+                            Welfate Trust’</b>
+                        to help the victims and their families get rehabilitated. He
+                        visited familes of 80 Taj employees who were either killed or injured during the
+                        terrorist attacks. Moreover, since the Taj hotel fell under Tata Group,he played a
+                        significant role in re-building it and retaining its historical significance for the
+                        people of Mumbai.<br>
+                        <b>3. He donates generously to noble causes</b>
+                        <br>
+                        Ratan Tata donated $50 million to his alma mater, Harvard Business School for building
+                        an executive center. MIT’s Tata Centre of Technology and Design was also formed by him.
+                        He made IIT Bombay its highest donation ever by donating Rs 95 crore to form the Tata
+                        Centre for Technology and Design, similar to MIT, that would develop engineering and
+                        design solutions for those with limited resources. He also donated Rs 1500 crore towards
+                        India’s fight against the Coronavirus pandemic. The list of Ratan Tata’s donations are
+                        endless, but he has never harped on his generosity.<br>
+                        <b>4. For Ratan Tata, no job is too small or big </b>
+                        <br>
+                        Ratan Tata started his journey at the Tata Group as an apprentice on the shop floor of
+                        the Jamshedpur plant. He built his career from the ground up, working in different
+                        companies within the Tata Group and eventually became the director of National Radio and
+                        Electronics (NELCO). It took him nine years to move from an apprentice to a director,
+                        however he never shied away from working hard and these years of struggle have shaped
+                        him into the man he is today. Interestingly, Ratan Tata’s career didn’t start with the
+                        Tata Group. His first job was
+                        at IBM, but JRD Tata was disappointed that on returning from his university in the US,
+                        he didn’t join Tata.He asked Ratan Tata for a resume, which he typed on a typewriter in
+                        the IBM office and the rest is history.<br>
+                        <b>5. He is a big supporter and lover of his furry friends</b>
+                        <br>
+                        It’s no secret that Ratan Tata loves dogs. One of his best friends is ‘Goa’, a dog who
+                        rides the elevator with him to his office every morning and sits with him through all
+                        his meetings. Tata
+                        Sons' global HQ at Bombay House is home to several strays who are looked after by the
+                        group. Ratan Tata also found his assistant through their mutual love of dogs.<br>Shantanu Naidu was deeply impacted by the death of a stray dog in a car accident in
+                        Mumbai. He realised that most of these accidents happened because the driver couldn’t
+                        see the dog during dark hours. As a solution,he created dog collars with reflectors to
+                        alert the drivers of dogs standing on roads at night. Impressed by his idea and
+                        willingness to help dogs, Ratan Tata funded his project, Moto Paws, and hired Naidu as
+                        an assistant. Ratan Tata breaks the mold of a popular businessman who uses his wealth to
+                        feed his vanity and bolster his power.
+                    
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="section-title">Awards</div>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>Title</th>
+                        <th>Awarding Organization</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2000</td>
+                        <td>Padma Bhushan</td>
+                        <td>National Civilian Honours</td>
+                    </tr>
+                    <tr>
+                        <td>2006</td>
+                        <td>Maharashtra Bhushan</td>
+                        <td>For his huge work in the Public Administration in Maharashtra</td>
+                    </tr>
+                    <tr>
+                        <td>2008</td>
+                        <td>Padma Vibhushan</td>
+                        <td>National Civilian Honours</td>
+                    </tr>
+                    <tr>
+                        <td>2021</td>
+                        <td>Assam Baibhav</td>
+                        <td>For his exceptional contribution towards furthering Cancer Care in Assam
+                        </td>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</div>
+<div class="quote">
+    <em>“Don’t be serious, enjoy life as it comes.”</em>
+    <footer>-Mr.Ratan Tata</footer>
+    <p>For more details </p>
+    <a href="https://en.wikipedia.org/wiki/Ratan_Tata" target="_blank" class="details">Click Here !! </a>
+    . 
+</p></div></div></div>
+<footer id="footer">
+</div></div></footer>
